@@ -1,4 +1,4 @@
-package com.yupi.yuaiagent.exception;
+package com.qimin.minaicode.exception;
 
 /**
  * 抛异常工具类

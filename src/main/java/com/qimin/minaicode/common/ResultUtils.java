@@ -1,7 +1,7 @@
-package com.yupi.yuaiagent.common;
+package com.qimin.minaicode.common;
 
 
-import com.yupi.yuaiagent.exception.ErrorCode;
+import com.qimin.minaicode.exception.ErrorCode;
 
 /**
  * 返回工具类

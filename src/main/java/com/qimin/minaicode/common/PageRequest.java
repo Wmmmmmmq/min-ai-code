@@ -1,4 +1,4 @@
-package com.yupi.yuaiagent.common;
+package com.qimin.minaicode.common;
 
 import lombok.Data;
 
